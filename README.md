@@ -1,2 +1,2 @@
-# ter-a-feira
+# terça-feira
 assistente virtual em c#
